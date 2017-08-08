@@ -1,0 +1,104 @@
+13
+test 4
+OOOOOOOOOOOO
+O..........O
+O..........O
+OOOOOOOOOOOO
+alien_a 8
+...OO... ...OO...
+..OOOO.. ..OOOO..
+.OOOOOO. .OOOOOO.
+OO.OO.OO OO.OO.OO
+OOOOOOOO OOOOOOOO
+..O..O.. .O.OO.O.
+.O.OO.O. O......O
+O.O..O.O .O....O.
+alien_b 8
+..O.....O.. ..O.....O..
+O..O...O..O ...O...O...
+O.OOOOOOO.O ..OOOOOOO..
+OOO.OOO.OOO .OO.OOO.OO.
+OOOOOOOOOOO OOOOOOOOOOO
+.OOOOOOOOO. O.OOOOOOO.O
+..O.....O.. O.O.....O.O
+.O.......O. ...OO.OO...
+alien_c 8
+....OOOO.... ....OOOO....
+.OOOOOOOOOO. .OOOOOOOOOO.
+OOOOOOOOOOOO OOOOOOOOOOOO
+OOO..OO..OOO OOO..OO..OOO
+OOOOOOOOOOOO OOOOOOOOOOOO
+...OO..OO... ..OOO..OOO..
+..OO.OO.OO.. .OO..OO..OO.
+OO........OO ..OO....OO..
+alien_d 8
+..O....O.. ..O....O..
+...O..O... ...O..O...
+..OOOOOO.. ..OOOOOO..
+.OO.OO.OO. .OOOOOOOO.
+OOOOOOOOOO OOO.OO.OOO
+O.OOOOOO.O O.OOOOOO.O
+O..O..O..O O..O..O..O
+..O....O.. ..OO..OO..
+alien_e 8
+O.....O O.....O
+.OOOOO. .OOOOO.
+OO.O.OO OO.O.OO
+OO.O.OO OO.O.OO
+.OOOOO. .OOOOO.
+O.O.O.O ..O.O..
+O.....O .O...O.
+.OO.OO. O.....O
+base 8
+.......O.......
+......OOO......
+......OOO......
+.OOOOOOOOOOOOO.
+OOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOO
+saucer 10
+................
+.....OOOOOO.....
+...OOOOOOOOOO...
+..OOOOOOOOOOOO..
+.OO.OO.OO.OO.OO.
+OOOOOOOOOOOOOOOO
+..OOO..OO..OOO..
+...O........O...
+................
+................
+explosion 7
+.O..O....O..O.
+..O..O..O..O..
+...O......O...
+OO..........OO
+...O......O...
+..O..O..O..O..
+.O..O....O..O.
+laser 4
+O
+O
+O
+O
+missile_a 7
+.O. .O.
+O.. ..O
+.O. .O.
+..O O..
+.O. .O.
+O.. ..O
+.O. .O.
+missile_b 7
+.O. .O.
+OOO .O.
+.O. OOO
+.O. .O.
+.O. .O.
+.O. .O.
+.O. .O.
+block 3
+... ..O ..O O.O OOO
+.O. .O. OOO OOO OOO
+... .O. .O. .OO OOO
